@@ -1,0 +1,9 @@
+[submodule "echo-service-go"]
+	path = echo-service-go
+	url = git@github.com:gorpher/echo-service-go.git
+[submodule "echo-service-express"]
+	path = echo-service-express
+	url = git@github.com:gorpher/echo-service-express.git
+[submodule "echo-service-rust"]
+	path = echo-service-rust
+	url = git@github.com:gorpher/echo-service-rust.git
